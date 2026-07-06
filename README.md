@@ -19,8 +19,3 @@ Tools Used
 - Python
 - NumPy
 - Matplotlib
-
-Output
-(Add your figure here after uploading image)
-
-
